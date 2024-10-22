@@ -1,7 +1,6 @@
 # IBM Applied Data Science Capstone
 
-Welcome to the repository for the IBM Applied Data Science Capstone course available on Coursera. This course is the final step in a 10-course Data Scientist certification offered by IBM. Here, you will find all relevant notebooks and answers to aid you in your journey through this capstone project. I can certainly say that this capstone, has provided me with a different way of thinking both in my appraoch to my everyday work, and my aspirations as a data professional.
-
+Welcome to my repository with completed assignments for the IBM Applied Data Science Capstone course available on Coursera. This course is the final step in a number of Data analysis certifications offered by IBM.
 ## Contents
 
 - [About the Capstone](#about-the-capstone)
